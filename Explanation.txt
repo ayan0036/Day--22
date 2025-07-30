@@ -1,0 +1,9 @@
+ What is Property Binding in Angular? 
+Property binding in Angular is a technique that allows you to pass data from a component (TypeScript class) to the HTML template. It is used to display dynamic values on the UI. The value of a property in the component is bound to an element property in the DOM. 
+
+This helps keep the view updated automatically whenever the component’s property changes. 
+
+What is Event Binding in Angular? 
+Event binding is a way to handle user interactions in Angular applications. It allows you to listen to events like clicks, input changes, or key presses and call corresponding methods in the component. 
+
+It creates a connection between the template and the logic, enabling dynamic and interactive behavior in the application.
